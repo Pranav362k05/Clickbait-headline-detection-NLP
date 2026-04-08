@@ -21,14 +21,14 @@ This project performs **binary text classification** on news headlines to detect
 
 ## ⚙️ Tech Stack
 
-- Python 🐍
+- Python
 - Google Colab
 - Pandas
 - Scikit-learn
 
 ---
 
-## 🧠 Methodology
+## 🛠️ Methodology
 
 ### 🔹 1. Data Collection
 - Dataset downloaded using Kaggle API
@@ -58,7 +58,9 @@ This project performs **binary text classification** on news headlines to detect
 Accuracy: 0.97
 
 Precision: 0.96
+
 Recall: 0.97
+
 F1-score: 0.96
 
 
@@ -97,4 +99,5 @@ git clone https://github.com/Pranav362k05/Clickbait-headline-detection-NLP
 ## 📎 Files
 
 Clickbait_Detection.ipynb → Main notebook
+
 README.md → Project documentation
