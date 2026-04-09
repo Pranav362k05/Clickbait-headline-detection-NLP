@@ -100,4 +100,6 @@ git clone https://github.com/Pranav362k05/Clickbait-headline-detection-NLP
 
 **Clickbait_Detection.ipynb** → Main notebook
 
+**clickbait_data.csv** → Dataset
+
 **README.md** → Project documentation
